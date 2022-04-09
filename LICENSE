@@ -1,3 +1,16 @@
+go-radicle-link
+
+go-radicle-link is licensed under version 3 of the GNU General Public License
+(GPLv3). Any contribution to radicle-link must be made subject to the
+Developer Certificate of Origin (DCO).
+
+By making your contribution, you are making the declaration set out in the
+Linux Foundation’s Developer Certificate of Origin version 1.1, in which
+the “open source licence indicated in the file” is GPLv3. A copy of the
+DCO can be found in the file named “DCO”.
+
+--------------------------------------------------------------------------
+
                     GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
@@ -70,7 +83,7 @@ modification follow.
 
                        TERMS AND CONDITIONS
 
-  0. Definitions.
+  1. Definitions.
 
   "This License" refers to version 3 of the GNU General Public License.
 
